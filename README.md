@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Ayoubb4 (Ayoub Misbah Fatouh)
+- 👀 I’m interested in web development, music production, and creative tech projects
+- 🌱 I’m currently learning Vue 3, NestJS and improving my skills in full-stack development (React + Java)
+- 💞️ I’m looking to collaborate on open-source platforms, music tech startups, and innovative web apps
+- 📫 How to reach me: ayoub.misbahfatouh@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m a singer and music producer building my own platform for musicians called **EleStu**
